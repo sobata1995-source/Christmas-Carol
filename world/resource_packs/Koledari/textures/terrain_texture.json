@@ -1,0 +1,62 @@
+{
+  "resource_pack_name": "koledari",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "dark_oak_planks": {
+      "textures": "textures/blocks/koledari_dark_oak_planks"
+    },
+    "deepslate_bricks": {
+      "textures": "textures/blocks/koledari_deepslate_bricks"
+    },
+    "gold_block": {
+      "textures": "textures/blocks/koledari_gold_block"
+    },
+    "mossy_stone_bricks": {
+      "textures": "textures/blocks/koledari_mossy_stone_bricks"
+    },
+    "ice_packed": {
+      "textures": "textures/blocks/koledari_packed_ice"
+    },
+    "polished_blackstone_bricks": {
+      "textures": "textures/blocks/koledari_polished_blackstone_bricks"
+    },
+    "quartz_pillar_side": {
+      "textures": "textures/blocks/koledari_quartz_pillar"
+    },
+    "quartz_pillar_top": {
+      "textures": "textures/blocks/koledari_quartz_pillar"
+    },
+    "koledari_red_carpet": {
+      "textures": "textures/blocks/koledari_red_carpet"
+    },
+    "red_concrete": {
+      "textures": "textures/blocks/koledari_red_concrete"
+    },
+    "wool_colored_red": {
+      "textures": "textures/blocks/koledari_red_wool"
+    },
+    "sea_lantern": {
+      "textures": "textures/blocks/koledari_sea_lantern"
+    },
+    "snow": {
+      "textures": "textures/blocks/koledari_snow_block"
+    },
+    "spruce_leaves": {
+      "textures": "textures/blocks/koledari_spruce_leaves"
+    },
+    "spruce_log_side": {
+      "textures": "textures/blocks/koledari_spruce_log"
+    },
+    "spruce_log_top": {
+      "textures": "textures/blocks/koledari_spruce_log"
+    },
+    "spruce_planks": {
+      "textures": "textures/blocks/koledari_spruce_planks"
+    },
+    "stone_bricks": {
+      "textures": "textures/blocks/koledari_stone_bricks"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:fog_settings": {
+    "description": {
+      "identifier": "koledari:winter_night"
+    },
+    "distance": {
+      "air": {
+        "fog_start": 10,
+        "fog_end": 35,
+        "fog_color": "#19232e",
+        "render_distance_type": "fixed"
+      },
+      "weather": {
+        "fog_start": 8,
+        "fog_end": 32,
+        "fog_color": "#19232e",
+        "render_distance_type": "fixed"
+      }
+    }
+  }
+}

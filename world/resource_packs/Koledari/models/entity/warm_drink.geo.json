@@ -1,0 +1,169 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.koledari.warm_drink",
+        "texture_width": 256,
+        "texture_height": 256,
+        "visible_bounds_width": 5,
+        "visible_bounds_height": 5,
+        "visible_bounds_offset": [
+          0,
+          1.5,
+          0
+        ]
+      },
+      "bones": [
+        {
+          "name": "root",
+          "pivot": [
+            0,
+            0,
+            0
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -3,
+                0,
+                -3
+              ],
+              "size": [
+                6,
+                7,
+                6
+              ],
+              "uv": [
+                0,
+                0
+              ]
+            },
+            {
+              "origin": [
+                3,
+                2,
+                -1.5
+              ],
+              "size": [
+                1,
+                1,
+                3
+              ],
+              "uv": [
+                0,
+                0
+              ]
+            },
+            {
+              "origin": [
+                3,
+                5,
+                -1.5
+              ],
+              "size": [
+                1,
+                1,
+                3
+              ],
+              "uv": [
+                0,
+                0
+              ]
+            },
+            {
+              "origin": [
+                4,
+                2,
+                -1.5
+              ],
+              "size": [
+                1,
+                4,
+                3
+              ],
+              "uv": [
+                0,
+                0
+              ]
+            },
+            {
+              "origin": [
+                -2.5,
+                7,
+                -2.5
+              ],
+              "size": [
+                5,
+                0.1,
+                5
+              ],
+              "uv": {
+                "north": {
+                  "uv": [
+                    128,
+                    0
+                  ],
+                  "uv_size": [
+                    64,
+                    64
+                  ]
+                },
+                "south": {
+                  "uv": [
+                    128,
+                    0
+                  ],
+                  "uv_size": [
+                    64,
+                    64
+                  ]
+                },
+                "east": {
+                  "uv": [
+                    128,
+                    0
+                  ],
+                  "uv_size": [
+                    64,
+                    64
+                  ]
+                },
+                "west": {
+                  "uv": [
+                    128,
+                    0
+                  ],
+                  "uv_size": [
+                    64,
+                    64
+                  ]
+                },
+                "up": {
+                  "uv": [
+                    128,
+                    0
+                  ],
+                  "uv_size": [
+                    64,
+                    64
+                  ]
+                },
+                "down": {
+                  "uv": [
+                    128,
+                    0
+                  ],
+                  "uv_size": [
+                    64,
+                    64
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Christmas Carol: The Last Song — Adventure",
+    "description": "A Christmas horror adventure by Razer Dev Studio. The carolers are outside. The worst is behind the pantry door.",
+    "uuid": "45b000c1-632c-4c88-8852-2312a0bd14af",
+    "version": [
+      1,
+      4,
+      18
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      120
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "16b51ae4-7284-4297-976f-a37a0772f092",
+      "version": [
+        1,
+        4,
+        18
+      ]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "entry": "scripts/main.js",
+      "uuid": "4d93a22a-0be0-4ed0-9611-45baec964aee",
+      "version": [
+        1,
+        4,
+        18
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.0.0"
+    },
+    {
+      "uuid": "9943ddba-4d08-4c71-bdc5-cb6c33c0af89",
+      "version": [
+        1,
+        4,
+        18
+      ]
+    }
+  ]
+}

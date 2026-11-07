@@ -1,0 +1,95 @@
+{
+  "format_version": "1.14.0",
+  "sound_definitions": {
+    "koledari.caroler1": {
+      "category": "music",
+      "sounds": [
+        {
+          "name": "sounds/caroler1",
+          "stream": true,
+          "is3D": false
+        }
+      ]
+    },
+    "koledari.caroler2": {
+      "category": "music",
+      "sounds": [
+        {
+          "name": "sounds/caroler2",
+          "stream": true,
+          "is3D": false
+        }
+      ]
+    },
+    "koledari.caroler3": {
+      "category": "music",
+      "sounds": [
+        {
+          "name": "sounds/caroler3",
+          "stream": true,
+          "is3D": false
+        }
+      ]
+    },
+    "koledari.caroler4": {
+      "category": "music",
+      "sounds": [
+        {
+          "name": "sounds/caroler4",
+          "stream": true,
+          "is3D": false
+        }
+      ]
+    },
+    "koledari.caroler5": {
+      "category": "music",
+      "sounds": [
+        {
+          "name": "sounds/caroler5",
+          "stream": true,
+          "is3D": false
+        }
+      ]
+    },
+    "koledari.choir": {
+      "category": "music",
+      "sounds": [
+        {
+          "name": "sounds/choir",
+          "stream": true,
+          "is3D": false
+        }
+      ]
+    },
+    "koledari.returned_choir": {
+      "category": "music",
+      "sounds": [
+        {
+          "name": "sounds/returned_choir",
+          "stream": true,
+          "is3D": false
+        }
+      ]
+    },
+    "koledari.santa": {
+      "category": "music",
+      "sounds": [
+        {
+          "name": "sounds/santa",
+          "stream": true,
+          "is3D": false
+        }
+      ]
+    },
+    "koledari.silence": {
+      "category": "music",
+      "sounds": [
+        {
+          "name": "sounds/silence",
+          "stream": true,
+          "is3D": false
+        }
+      ]
+    }
+  }
+}

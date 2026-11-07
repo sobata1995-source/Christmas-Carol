@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Christmas Carol: The Last Song — Resources",
+    "description": "A Christmas horror adventure by Razer Dev Studio. The carolers are outside. The worst is behind the pantry door.",
+    "uuid": "9943ddba-4d08-4c71-bdc5-cb6c33c0af89",
+    "version": [
+      1,
+      4,
+      18
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      120
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "16139c1a-1f58-4b6e-be64-aad652cb4266",
+      "version": [
+        1,
+        4,
+        18
+      ]
+    }
+  ]
+}

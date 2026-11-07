@@ -1,0 +1,20 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "koledari:falling_gift",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/blocks/koledari_red_wool"
+      },
+      "geometry": {
+        "default": "geometry.koledari.falling_gift"
+      },
+      "render_controllers": [
+        "controller.render.koledari.prop"
+      ]
+    }
+  }
+}

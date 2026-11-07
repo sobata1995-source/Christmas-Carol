@@ -1,0 +1,20 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "koledari:warm_drink",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/warm_drink"
+      },
+      "geometry": {
+        "default": "geometry.koledari.warm_drink"
+      },
+      "render_controllers": [
+        "controller.render.koledari.prop"
+      ]
+    }
+  }
+}

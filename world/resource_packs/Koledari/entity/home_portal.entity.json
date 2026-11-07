@@ -1,0 +1,20 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "koledari:home_portal",
+      "materials": {
+        "default": "entity_emissive_alpha"
+      },
+      "textures": {
+        "default": "textures/entity/home_portal"
+      },
+      "geometry": {
+        "default": "geometry.koledari.home_portal"
+      },
+      "render_controllers": [
+        "controller.render.koledari.prop"
+      ]
+    }
+  }
+}

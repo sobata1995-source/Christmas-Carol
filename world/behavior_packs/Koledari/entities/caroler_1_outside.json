@@ -1,0 +1,45 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "koledari:caroler_1_outside",
+      "is_spawnable": false,
+      "is_summonable": true
+    },
+    "components": {
+      "minecraft:type_family": {
+        "family": [
+          "koledari",
+          "mob"
+        ]
+      },
+      "minecraft:health": {
+        "value": 110,
+        "max": 110
+      },
+      "minecraft:scale": {
+        "value": 1.18
+      },
+      "minecraft:collision_box": {
+        "width": 0.75,
+        "height": 2.2
+      },
+      "minecraft:physics": {
+        "has_gravity": false,
+        "has_collision": true
+      },
+      "minecraft:persistent": {},
+      "minecraft:knockback_resistance": {
+        "value": 0.12
+      },
+      "minecraft:damage_sensor": {
+        "triggers": [
+          {
+            "cause": "all",
+            "deals_damage": "no"
+          }
+        ]
+      }
+    }
+  }
+}

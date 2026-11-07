@@ -1,0 +1,8 @@
+{
+  "biomes": {
+    "ice_plains": {
+      "fog_identifier": "koledari:winter_night",
+      "inherit_from_prior_fog": false
+    }
+  }
+}

@@ -1,0 +1,1 @@
+{"format_version": "1.10.0", "minecraft:client_entity": {"description": {"identifier": "koledari:cozy_tree_lights", "materials": {"default": "entity_emissive_alpha"}, "textures": {"default": "textures/blocks/koledari_gold_block"}, "geometry": {"default": "geometry.koledari.cozy_tree_lights"}, "render_controllers": ["controller.render.koledari.prop"]}}}

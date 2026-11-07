@@ -1,0 +1,36 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "koledari:caroler_1",
+      "materials": {
+        "default": "entity_alphatest",
+        "glow": "entity_emissive_alpha"
+      },
+      "textures": {
+        "default": "textures/entity/demon",
+        "glow": "textures/entity/eyes"
+      },
+      "geometry": {
+        "default": "geometry.koledari.caroler_1",
+        "glow": "geometry.koledari.caroler_1_eyes"
+      },
+      "render_controllers": [
+        "controller.render.koledari.base",
+        "controller.render.koledari.glow"
+      ],
+      "animations": {
+        "idle": "animation.koledari.idle",
+        "walk": "animation.koledari.walk",
+        "look": "animation.koledari.look"
+      },
+      "scripts": {
+        "animate": [
+          "idle",
+          "walk",
+          "look"
+        ]
+      }
+    }
+  }
+}

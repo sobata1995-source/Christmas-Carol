@@ -1,0 +1,16 @@
+{
+  "format_version": "1.21.70",
+  "minecraft:client_biome": {
+    "description": {
+      "identifier": "ice_plains"
+    },
+    "components": {
+      "minecraft:fog_appearance": {
+        "fog_identifier": "koledari:winter_night"
+      },
+      "minecraft:sky_color": {
+        "sky_color": "#010204"
+      }
+    }
+  }
+}
