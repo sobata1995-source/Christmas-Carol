@@ -2,6 +2,8 @@
 
 # Christmas Carol: The Last Song
 
+[Download the world](https://github.com/sobata1995-source/Christmas-Carol/releases/latest/download/Christmas-Carol-1.4.18.mcworld) · [CurseForge](https://www.curseforge.com/minecraft-bedrock/maps/christmas-carol-the-last-song)
+
 ## The singing outside is not the worst part.
 
 Snow presses against the windows. The fire is warm. Somewhere out on the street, a Christmas carol begins.
