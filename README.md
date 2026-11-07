@@ -30,11 +30,23 @@ Step into a furnished winter home, listen to an original Bulgarian-inspired male
 
 ## Play
 
+[**Download the ready-to-play world**](https://github.com/sobata1995-source/Christmas-Carol/releases/latest/download/Christmas-Carol-1.4.18.mcworld)
+
 Download **Christmas-Carol-1.4.18.mcworld** and open it with Minecraft Bedrock. Select the imported world and play. Its behavior and resource packs are included.
 
 **Bedrock Edition only. Single player.** Tested by the creator and players on Minecraft for Windows. Mobile, console and Realms have not been verified. Built for Bedrock 1.21.120 or later with Script API 2.0.0. Keep music enabled so you can hear the original score.
 
 Contains horror imagery, pursuit and sudden sounds. Recommended for players comfortable with horror experiences.
+
+## A glimpse of the night
+
+[Watch the spoiler-free trailer](https://github.com/sobata1995-source/Christmas-Carol/releases/download/v1.4.18/Christmas-Carol-Trailer.mp4)
+
+![The snowy street](media/screenshots/01-snowy-night.jpg)
+![The carolers](media/screenshots/02-the-carolers.jpg)
+![Inside the house](media/screenshots/03-warmth-inside.jpg)
+![The pantry door](media/screenshots/04-pantry-door.jpg)
+![A Christmas corridor](media/screenshots/05-christmas-corridor.jpg)
 
 ## Support Razer Dev Studio
 
