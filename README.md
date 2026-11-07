@@ -60,7 +60,9 @@ The adventure is free to download and play. Donations are entirely optional and 
 
 *One house. One Christmas night. One song you wish would end.*
 
-## Build the world
+## For developers only
+
+Players do not need to run any commands. Download `Christmas-Carol-1.4.18.mcworld`, open it with Minecraft Bedrock, and start the imported world.
 
 Run `python tools/package_world.py`. The prepared world, scripts and resources are included. For the regression checks, run `node tests/test-house-loading.cjs`, `node tests/test-gift-rain.cjs`, `node tests/test-gift-corners.cjs`, and `node tests/test-final-pantry.cjs`.
 
